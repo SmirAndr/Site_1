@@ -169,7 +169,7 @@ main {
 }
 
 .discount {
-    background-image: url(Assets/discount.jpg);
+    background-image: url(img/discount.jpg);
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -881,7 +881,7 @@ main {
 }
 
 .map{
-    background-image: url("Assets/map.png");
+    background-image: url("img/map.png");
     width: 1920px;
     height: 500px;
     top: 372px;
